@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  agnosticv-operator:
+  - apiVersion: v2
+    appVersion: 0.8.0
+    created: "2021-03-30T16:35:50.146911784-04:00"
+    description: A Helm chart for Agnosticv Operator
+    digest: 4b728ddfc595b133a33e81f337e514babb4883e083ba8cc1c6506062feb0235b
+    name: agnosticv-operator
+    type: application
+    urls:
+    - https://tylerauerbeck.github.io/agnosticv-operator/agnosticv-operator-0.8.0.tgz
+    version: 0.8.0
+generated: "2021-03-30T16:35:50.146297075-04:00"
